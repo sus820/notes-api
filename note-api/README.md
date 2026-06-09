@@ -1,5 +1,13 @@
 # Notes Management API
 
+Full Name: Sushant Kadam
+
+Domain: Computer Science Engineering (CSE)
+
+GitHub Repository URL: 
+
+Project Type: A (Notes API)
+
 ## Project Overview
 
 A simple Notes Management API built using Express.js. The API supports Create, Read, Update, and Delete (CRUD) operations for notes.
